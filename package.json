@@ -11,5 +11,11 @@
     "nodejs"
   ],
   "author": "dombrovskiy",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }

@@ -1,1 +1,1 @@
-1. npm init
+More practices with NodeJS
